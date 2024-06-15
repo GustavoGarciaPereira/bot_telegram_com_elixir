@@ -1,6 +1,4 @@
-## Descrição para o GitHub
-
-### Bot de Telegram com Elixir
+## Bot de Telegram com Elixir
 
 Este repositório contém um projeto de bot para o Telegram desenvolvido com a linguagem de programação Elixir. O principal objetivo deste projeto é proporcionar um aprendizado prático e aprofundado de Elixir, explorando suas funcionalidades, bibliotecas e melhores práticas de desenvolvimento.
 
@@ -56,18 +54,10 @@ Este repositório contém um projeto de bot para o Telegram desenvolvido com a l
    mix run --no-halt
    ```
 
-### Contribuições
-
-Contribuições são bem-vindas! Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de issues.
-
 ### Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-### Agradecimentos
 
-Agradecemos a todos que contribuíram para o desenvolvimento deste projeto e à comunidade Elixir por fornecer uma linguagem poderosa e um ecossistema rico.
-
----
 
 Este projeto não apenas fornecerá uma ferramenta útil para os usuários do Telegram, mas também servirá como um recurso educacional valioso para qualquer pessoa interessada em aprender e dominar Elixir.
